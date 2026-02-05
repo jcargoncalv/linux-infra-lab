@@ -1,2 +1,2 @@
 # linux-infra-lab
-Laboratório corporativo Linux com DNS, LDAP, Samba, Web Server e segurança.
+Laboratório profissional de Linux para Infra, DevOps e Cybersec.
